@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="CatRun">
+  <rect width="1200" height="630" fill="#0A1A1C"/>
+  <rect width="1200" height="86" fill="#D64F2E"/>
+  <rect y="18" width="1200" height="18" fill="#FAB538"/>
+  <path d="M0 250l90-70 80 52 100-80 86 66 110-74 96 60 108-70 98 62 130-78 130 66v92H0z" fill="#8a3a24"/>
+  <path d="M0 286l90-56 80 40 100-66 86 52 110-60 96 48 108-56 98 48 130-62 130 52v70H0z" fill="#D64F2E"/>
+  <g>
+    <path d="M80 330h210L260 292H110z" fill="#FAB538"/>
+    <rect x="100" y="330" width="170" height="70" fill="#1c3836"/>
+    <path d="M330 318h240L540 274H360z" fill="#C88814"/>
+    <rect x="350" y="318" width="200" height="82" fill="#14292b"/>
+    <path d="M620 338h200L800 300H640z" fill="#FAB538"/>
+    <rect x="638" y="338" width="164" height="62" fill="#1c4f4b"/>
+    <path d="M860 324h230L1060 280H890z" fill="#D64F2E"/>
+    <rect x="880" y="324" width="190" height="76" fill="#122426"/>
+  </g>
+  <rect y="420" width="1200" height="210" fill="#0b1516"/>
+  <path d="M0 460h1200" stroke="#FFE09E" stroke-opacity=".22" stroke-dasharray="28 18"/>
+  <path d="M0 520h1200" stroke="#FFE09E" stroke-opacity=".28" stroke-dasharray="32 16"/>
+  <path d="M0 580h1200" stroke="#FFE09E" stroke-opacity=".22" stroke-dasharray="28 18"/>
+  <path d="M210 500l28-32 18 16 22-22 16 28 36 12-16 48-62 8-34-22z" fill="#FFE09E"/>
+  <circle cx="520" cy="510" r="10" fill="#1f9eeb"/>
+  <circle cx="560" cy="502" r="8" fill="#1f9eeb"/>
+  <circle cx="720" cy="470" r="10" fill="#FAB538"/>
+  <text x="72" y="200" fill="#FFE09E" font-family="Georgia, serif" font-size="72" font-weight="700">CatRun</text>
+</svg>

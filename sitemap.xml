@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://weizhichao1027-collab.github.io/catrun-support/</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weizhichao1027-collab.github.io/catrun-support/?lang=zh-Hans"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://weizhichao1027-collab.github.io/catrun-support/?lang=zh-Hant"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weizhichao1027-collab.github.io/catrun-support/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weizhichao1027-collab.github.io/catrun-support/?lang=ja"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weizhichao1027-collab.github.io/catrun-support/"/>
+  </url>
+  <url>
+    <loc>https://weizhichao1027-collab.github.io/catrun-support/support</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weizhichao1027-collab.github.io/catrun-support/support?lang=zh-Hans"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weizhichao1027-collab.github.io/catrun-support/support?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weizhichao1027-collab.github.io/catrun-support/support"/>
+  </url>
+  <url>
+    <loc>https://weizhichao1027-collab.github.io/catrun-support/privacy</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://weizhichao1027-collab.github.io/catrun-support/privacy?lang=zh-Hans"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weizhichao1027-collab.github.io/catrun-support/privacy?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weizhichao1027-collab.github.io/catrun-support/privacy"/>
+  </url>
+  <url>
+    <loc>https://weizhichao1027-collab.github.io/catrun-support/llms.txt</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+</urlset>
