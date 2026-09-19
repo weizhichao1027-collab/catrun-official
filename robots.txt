@@ -31,5 +31,5 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-Sitemap: https://weizhichao1027-collab.github.io/catrun-support/sitemap.xml
-# Citation facts for assistants: https://weizhichao1027-collab.github.io/catrun-support/llms.txt
+Sitemap: https://weizhichao1027-collab.github.io/catrun-official/sitemap.xml
+# Citation facts for assistants: https://weizhichao1027-collab.github.io/catrun-official/llms.txt

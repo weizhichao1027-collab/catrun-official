@@ -49,7 +49,7 @@
 
   const FULL_EXTRA = new Set(["en", "zh-Hans", "zh-Hant", "ja"]);
   const STORAGE_KEY = "catrun.lang";
-  const FALLBACK_ORIGIN = "https://weizhichao1027-collab.github.io/catrun-support";
+  const FALLBACK_ORIGIN = "https://weizhichao1027-collab.github.io/catrun-official";
   const FALLBACK_STORE = "https://apps.apple.com/app/id6793595842";
   const root = document.documentElement;
   const assetRoot = root.dataset.assetRoot || ".";

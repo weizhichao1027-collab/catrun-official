@@ -61,17 +61,17 @@
   "privacyEffective": "2026-07-22",
   "privacyReviewed": "2026-09-19",
   "urls": {
-    "origin": "https://weizhichao1027-collab.github.io/catrun-support",
-    "official": "https://weizhichao1027-collab.github.io/catrun-support/",
-    "support": "https://weizhichao1027-collab.github.io/catrun-support/support",
-    "privacy": "https://weizhichao1027-collab.github.io/catrun-support/privacy",
-    "marketing": "https://weizhichao1027-collab.github.io/catrun-support",
+    "origin": "https://weizhichao1027-collab.github.io/catrun-official",
+    "official": "https://weizhichao1027-collab.github.io/catrun-official/",
+    "support": "https://weizhichao1027-collab.github.io/catrun-official/support",
+    "privacy": "https://weizhichao1027-collab.github.io/catrun-official/privacy",
+    "marketing": "https://weizhichao1027-collab.github.io/catrun-official",
     "appStore": "https://apps.apple.com/app/id6793595842",
     "appStoreUS": "https://apps.apple.com/us/app/catrun-neon-market-rush/id6793595842",
     "appStoreCN": "https://apps.apple.com/cn/app/catrun-%E6%99%A8%E5%B8%82%E5%86%B2%E5%88%BA/id6793595842",
     "developer": "https://apps.apple.com/developer/id1891134548",
     "eula": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-    "llms": "https://weizhichao1027-collab.github.io/catrun-support/llms.txt"
+    "llms": "https://weizhichao1027-collab.github.io/catrun-official/llms.txt"
   },
   "hreflang": {
     "en": "en",

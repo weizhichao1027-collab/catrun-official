@@ -29,11 +29,11 @@ CatRun is a three-lane morning-market runner for iPhone. Players change lanes, j
 
 ## Official pages
 
-- Official site: https://weizhichao1027-collab.github.io/catrun-support/
-- Support: https://weizhichao1027-collab.github.io/catrun-support/support
-- Privacy policy: https://weizhichao1027-collab.github.io/catrun-support/privacy
-- Machine-readable facts: https://weizhichao1027-collab.github.io/catrun-support/llms.txt
-- JSON facts: https://weizhichao1027-collab.github.io/catrun-support/assets/site-facts.json
+- Official site: https://weizhichao1027-collab.github.io/catrun-official/
+- Support: https://weizhichao1027-collab.github.io/catrun-official/support
+- Privacy policy: https://weizhichao1027-collab.github.io/catrun-official/privacy
+- Machine-readable facts: https://weizhichao1027-collab.github.io/catrun-official/llms.txt
+- JSON facts: https://weizhichao1027-collab.github.io/catrun-official/assets/site-facts.json
 
 ## How it plays
 

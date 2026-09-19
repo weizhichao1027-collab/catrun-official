@@ -49,10 +49,10 @@ python3 Tools/patch_site_copy.py
 
 Keep these paths when you publish:
 
-- `https://weizhichao1027-collab.github.io/catrun-support/`
-- `https://weizhichao1027-collab.github.io/catrun-support/support`
-- `https://weizhichao1027-collab.github.io/catrun-support/privacy`
-- `https://weizhichao1027-collab.github.io/catrun-support/llms.txt`
+- `https://weizhichao1027-collab.github.io/catrun-official/`
+- `https://weizhichao1027-collab.github.io/catrun-official/support`
+- `https://weizhichao1027-collab.github.io/catrun-official/privacy`
+- `https://weizhichao1027-collab.github.io/catrun-official/llms.txt`
 
 Upload the contents of this `docs/` folder to the host root so those paths resolve.
 
