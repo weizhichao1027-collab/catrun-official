@@ -45,16 +45,16 @@ python3 Tools/patch_site_copy.py
 
 `write_site_facts.py` also patches the `urls` and `app` blocks in both marketing JSON files. Full store-copy regeneration is still `python3 Tools/build_marketing.py`.
 
-## Public URLs used by the app and App Store Connect
+## Live URLs
 
-Keep these paths when you publish:
+Published from `https://github.com/weizhichao1027-collab/catrun-official` (GitHub Pages):
 
 - `https://weizhichao1027-collab.github.io/catrun-official/`
 - `https://weizhichao1027-collab.github.io/catrun-official/support`
 - `https://weizhichao1027-collab.github.io/catrun-official/privacy`
 - `https://weizhichao1027-collab.github.io/catrun-official/llms.txt`
 
-Upload the contents of this `docs/` folder to the host root so those paths resolve.
+App Store Connect and the 1.0.1 binary still point at `https://catrun-support.weizhichao1027.chatgpt.site`. The next binary and a Connect edit can switch those to Pages. Do not host this site from the private iOS repo.
 
 ## Copy sources
 
